@@ -5,7 +5,7 @@
 [![GitLab Badge](https://img.shields.io/badge/-JuliaStefanoni-black?style=flat-square&logo=GitLab&link=https://gitlab.com/juliastefanoni)](https://gitlab.com/juliastefanoni)
 
 
-### I'm Júlia Stefanoni and I have 17 years old. I'm fullstack developer! :purple_heart:
+### I have 17 years old and I'm fullstack developer! :purple_heart:
 
 
 <ul>
