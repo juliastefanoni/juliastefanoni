@@ -5,10 +5,10 @@
 [![GitLab Badge](https://img.shields.io/badge/-JuliaStefanoni-black?style=flat-square&logo=GitLab&link=https://gitlab.com/juliastefanoni)](https://gitlab.com/juliastefanoni)
 
 
-### I have 18 years old and I'm fullstack developer! :purple_heart:
+### I have 20 years old and I'm fullstack developer! :purple_heart:
 
 
 <ul>
-  <li> <h4> ⚛️ I'm studying the javascript universe (ReactJS, React Native and NodeJS) </h4> </li>
+  <li> <h4> ⚛️ I'm studying the javascript universe (ReactJS, Flutter and NodeJS) </h4> </li>
   <li> <h4> :dog: I'm passionate for programmation, broccoli and dogs hahaha</h4> </li>
 </ul>
