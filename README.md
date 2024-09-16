@@ -9,6 +9,7 @@
 
 
 <ul>
-  <li> <h4> ⚛️ I'm studying the javascript universe (ReactJS, Flutter and NodeJS) </h4> </li>
+  <li> <h4> ⚛️ I'm studying the javascript universe (ReactJS and NodeJS) </h4> </li>
+   <li> <h4> ⚛️ A java enthusiast </h4> </li>
   <li> <h4> :dog: I'm passionate for programmation, broccoli and dogs hahaha</h4> </li>
 </ul>
