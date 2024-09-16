@@ -5,7 +5,7 @@
 [![GitLab Badge](https://img.shields.io/badge/-JuliaStefanoni-black?style=flat-square&logo=GitLab&link=https://gitlab.com/juliastefanoni)](https://gitlab.com/juliastefanoni)
 
 
-### I have 20 years old and I'm fullstack developer! :purple_heart:
+### I have 21 years old and I'm fullstack developer! :purple_heart:
 
 
 <ul>
